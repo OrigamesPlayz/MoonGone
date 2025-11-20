@@ -14,3 +14,7 @@ E - Pick up fuel rocks
 F - Enter space shuttle
 
 This game is made for Siege Week 11 so not much effort but time well spent have fun reviewers and other :).
+
+Demo video -> https://youtu.be/FwGAQtMr8Y0
+
+Play here -> https://origamesplayz.itch.io/moongone
